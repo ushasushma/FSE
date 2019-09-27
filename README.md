@@ -1,2 +1,2 @@
 # FSE
-zCognizant IIHT FSE assignments
+Cognizant IIHT FSE assignments
